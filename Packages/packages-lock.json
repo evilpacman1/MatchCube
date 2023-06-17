@@ -10,7 +10,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "2.0.4",
+      "version": "2.0.5",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -25,6 +25,13 @@
         "com.unity.nuget.mono-cecil": "1.11.4",
         "com.unity.test-framework": "1.1.31"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.device-simulator.devices": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.editorcoroutines": {
